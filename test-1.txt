@@ -1,9 +1,8 @@
 
-<<<<<<< HEAD
-my name is Adesh
-=======
+my name is Ragini
+
 my name is Aamir
->>>>>>> e1a62c55308b20921e0e44a6584982efed107ece
+
 
 This is to work on diff merge tool usage
 
