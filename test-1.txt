@@ -1,5 +1,5 @@
 
-my name is Aditiya
+my name is Aamir
 
 This is to work on diff merge tool usage
 
